@@ -1,0 +1,15 @@
+ Volume in drive F is Softwares
+ Volume Serial Number is 7670-7DA2
+
+ Directory of F:\Office\Practice\Git\GitProject
+
+07-01-2020  07.23 PM    <DIR>          .
+07-01-2020  07.23 PM    <DIR>          ..
+07-01-2020  07.23 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   4,915,449,856 bytes free
+
+
+git init
+git status
+git add
