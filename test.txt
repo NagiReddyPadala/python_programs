@@ -10,9 +10,15 @@
                2 Dir(s)   4,915,449,856 bytes free
 
 
-git init
-git status
-git add
 
+git config --global user.email "yourGitHub@email.com"
+git config --global user.name "yourGitHubusername"
 
-git commit -m "Message"
+  - git init
+  - git status
+  - git add
+  - git commit -m “Comments/Message”
+  - git remote add origin https://github.com/NagiReddyPadala/Test.git
+  - git push -u origin master
+  - git log
+  - git —help
