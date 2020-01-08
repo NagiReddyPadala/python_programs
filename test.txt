@@ -133,3 +133,5 @@ git rebase
 - Moves the entire feature branch to begin on the tip of the master branch
 - Re-writes the project history
 - We get much cleaner and linear project history
+
+: Modifying from PyCharm
