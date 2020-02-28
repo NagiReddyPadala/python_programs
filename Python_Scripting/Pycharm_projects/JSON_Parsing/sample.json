@@ -1,0 +1,24 @@
+{
+  "People":[
+	  		{
+			  "name": "John",
+			  "age": 30,
+			  "married": true,
+			  "children": ["Ann","Billy"],
+			  "pets": null,
+			  "cars": [
+				{"model": "BMW 230", "mpg": 27.5},
+				{"model": "Ford Edge", "mpg": 24.1}]
+			  },
+			  {  
+			  "name": "Smith",
+			  "age": 32,
+			  "married": true,
+			  "children": ["Hillary"],
+			  "pets": null,
+			  "cars": [
+				{"model": "Audi A8", "mpg": 24.5},
+				{"model": "Benz", "mpg": 22.1}]
+			  }
+			]
+}

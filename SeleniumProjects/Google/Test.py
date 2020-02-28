@@ -10,9 +10,11 @@ search_text_box = driver.find_element_by_name("q")
 search_text_box.send_keys("Nagireddy Padala")
 search_text_box.send_keys(Keys.ENTER)
 
-lst_links = driver.find_elements_by_tag_name("h3")
-for link in lst_links:
-    print(link.text)
+# lst_links = driver.find_elements_by_tag_name("h3")
+# for link in lst_links:
+#     print(link.text)
+
+print(driver.page_source)
 #print(driver.)
 driver.close()
 driver.quit()

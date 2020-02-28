@@ -1,0 +1,28 @@
+{
+	"Components":
+	[
+		{
+			"Dialog": {
+				"Title": "Program header",
+				"MainWindow": ":SlGfwHmiDialogFrame.SlStepEditorForm.m_pMaskContainer.SlStepProgramHeadForm.SlStepScrollArea1.qt_scrollarea_viewport.SlStepContainerWidget1",
+				"Fields": {
+					"Work_offset": 			{"FieldType": "ListBox",				"ObjectName": ".NPV_TOGGLE1.NPV_TOGGLE1:Toggle",  									"InputValue": "0"},		
+					"Blank":				{"FieldType": "ListBox",				"ObjectName": ".BLANK_TOGGLE1.BLANK_TOGGLE1:Toggle",  								"InputValue": "3"},
+					"X0": 					{"FieldType": "LineEdit",				"ObjectName": ".X01.X01:Value",  													"InputValue": "-75.000"},		
+					"Y0": 					{"FieldType": "LineEdit",				"ObjectName": ".Y01.Y01:Value",  													"InputValue": "-50.000"},		
+					"X1_Unit":				{"FieldType": "LangDepToggleBox",		"ObjectName": ".X1_STATIC_BLANK1.SlStepWidgetInput:UnitToggleBox",  				"InputValue": "T_UNIT_ABS"},
+					"X1": 					{"FieldType": "LineEdit",				"ObjectName": ".X1_STATIC_BLANK1.X1_STATIC_BLANK1:Value",  							"InputValue": "75.000"},		
+					"Y1_Unit":				{"FieldType": "LangDepToggleBox",		"ObjectName": ".Y1_STATIC_BLANK1.SlStepWidgetInput:UnitToggleBox",  				"InputValue": "T_UNIT_ABS"},
+					"Y1": 					{"FieldType": "LineEdit",				"ObjectName": ".Y1_STATIC_BLANK1.Y1_STATIC_BLANK1:Value",  							"InputValue": "50.000"},
+					"ZA":					{"FieldType": "LineEdit",				"ObjectName": ".ZA_STATIC1.ZA_STATIC1:Value",  										"InputValue": "0.000"},
+					"ZI_Unit":				{"FieldType": "LangDepToggleBox",		"ObjectName": ".ZI_STATIC1.SlStepWidgetInput:UnitToggleBox",  						"InputValue": "T_UNIT_ABS"},
+					"ZI": 					{"FieldType": "LineEdit",				"ObjectName": ".ZI_STATIC1.ZI_STATIC1:Value",  										"InputValue": "-20.000"},
+					"RP":					{"FieldType": "LineEdit",				"ObjectName": ".RP1.RP1:Value",  													"InputValue": "10.000"},
+					"SC":					{"FieldType": "LineEdit",				"ObjectName": ".SC1.SC1:Value",  													"InputValue": "2.000"},
+					"Machining_sense":		{"FieldType": "ListBox",				"ObjectName": ".SENSE_TOGGLE1.SENSE_TOGGLE1:Toggle",  								"InputValue": "1"},
+					"Retract pos pattern":	{"FieldType": "ListBox",				"ObjectName": ".LIFT_CONTOUR_MILLING_TOGGLE1.LIFT_CONTOUR_MILLING_TOGGLE1:Toggle",  "InputValue": "0"}
+					}
+				}
+		}			
+	]		
+}
