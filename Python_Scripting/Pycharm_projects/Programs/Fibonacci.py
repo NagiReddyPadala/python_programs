@@ -10,9 +10,10 @@ def fibonacci(n):
         return b
     else:
         for i in range(2, n+1):
-            c = a + b
-            a = b
-            b = c
+            # c = a + b
+            # a = b
+            # b = c
+            a, b = b, a+b
         return b
 
 

@@ -9,7 +9,7 @@ def search(lst, n):
     l = 0
     u = len(lst) - 1
 
-    while l<=u:
+    while l <= u:
         pos += 1
         mid = (l+u) // 2
         if n == lst[mid]:
